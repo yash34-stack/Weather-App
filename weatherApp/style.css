@@ -1,0 +1,29 @@
+*{
+    background-color: brown;
+}
+#weather{
+    display: grid;
+    grid-template-columns: 150px auto;
+}
+
+#data{
+    padding: 10px;
+     margin-left:40%;
+}
+button{
+     background-color: white;
+    font-size: 25px;
+    margin-left:45%;
+    margin-top:2%;
+    color: blue;
+    border:solid black;
+}
+input{
+    font-size: 25px;
+    margin-left:40%;
+    margin-top:14%;
+    background-color: white;
+    border:solid black;
+     color: blue;
+}
+
